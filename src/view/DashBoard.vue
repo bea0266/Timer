@@ -3,9 +3,7 @@
 </script>
 
 <template>
-    <h1>dashboard view</h1>
+	<h1>dashboard view</h1>
 </template>
 
-<style scoped>
-    
-</style>
+<style scoped></style>

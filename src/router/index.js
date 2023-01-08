@@ -4,7 +4,6 @@ import Main from '@/view/Main.vue'
 import Timer from '@/view/Timer.vue'
 import DashBoard from '@/view/DashBoard.vue'
 
-
 const routes = [
     {
         path: '/main',
