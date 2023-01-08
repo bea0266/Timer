@@ -2,6 +2,7 @@ import { createWebHistory, createRouter } from "vue-router";
 
 import Main from '@/view/Main.vue'
 import Timer from '@/view/Timer.vue'
+import DashBoard from '@/view/DashBoard.vue'
 
 
 const routes = [
@@ -15,6 +16,12 @@ const routes = [
         path: '/timer',
         name: 'timer',
         component: Timer,
+    },
+
+    {
+        path: '/dashboard',
+        name: 'dashboard',
+        component: DashBoard,
     },
   
 ];
